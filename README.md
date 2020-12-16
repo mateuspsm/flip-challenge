@@ -4,11 +4,11 @@ Este script foi feito em PHP, foi desenvolvido foi desenvolvido a partir de um d
 
 A ideia era Criem um script em PHP, que seja capaz de:
 
-1 - Identificar os links das imagens e retorná-los em um array.
-2 - Parsear/Iterar o array com as imagens e ter acesso a cada uma delas.
-3 - substituir a parte "grid" por "device" na url da imagem, a fim de pegar a melhor qualidade.
-4 - No diretório do script, criem uma pasta chamada "imagens"
-5 - Fazer o download das páginas no diretório descrito acima.
+1. Identificar os links das imagens e retorná-los em um array.
+2. Parsear/Iterar o array com as imagens e ter acesso a cada uma delas.
+3. substituir a parte "grid" por "device" na url da imagem, a fim de pegar a melhor qualidade.
+4. No diretório do script, criem uma pasta chamada "imagens"
+5. Fazer o download das páginas no diretório descrito acima.
 
 ## 1 - Identificar os links das imagens e retorná-los em um array.
 
